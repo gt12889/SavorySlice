@@ -1,0 +1,9 @@
+Date: 2023-06-02 Friday
+Sandwich:     8"        rye y bread                     $ 7.0 
+            ham meat                           $ 2.0 
+          swiss cheese                         $ 1.5 
+      mushrooms 
+           mayo 
+          sauce 
+		7.0
+Total Price: 								$ 10.5

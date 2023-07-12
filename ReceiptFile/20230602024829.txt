@@ -1,0 +1,13 @@
+Date: 2023-06-02 Friday
+Sandwich:     4"      White toasted bread                     $ 5.5 
+         Turkey meat                           $ 1.0 
+      Provolone cheese                         $ 0.75 
+      Cucumbers 
+Thousand Islands 
+SavorySlice Official 
+		5.5
+Drink: m									 $2.5
+
+Chips:Lay's								 $1.5
+
+Total Price: 								$ 11.25

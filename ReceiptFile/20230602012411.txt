@@ -1,0 +1,10 @@
+Date: 2023-06-02 Friday
+Sandwich:    4" white false bread           $5.5 
+         ham meat                           $1.0 
+       swiss cheese                         $0.75 
+lettuce peppers, olives, pickles 
+mayo mustard 
+		5.5
+Drink: s							     Price: $2.0
+
+Total Price: 							$ 9.25

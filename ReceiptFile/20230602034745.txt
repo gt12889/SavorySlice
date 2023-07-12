@@ -1,0 +1,11 @@
+Date: 2023-06-02 Friday
+Sandwich:    12"      Wraptoasted bread                  $ 8.50 
+                Ham                            $ 3.00 
+                Turkey                         $ 3.00 
+                Chicken                        $ 3.00 
+                American                       $ 2.25 
+                Lettuce                           
+                Mayo                              
+                Au Jus                            
+		8.5
+Total Price: 								$ 22.75

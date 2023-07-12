@@ -1,0 +1,13 @@
+Date: 2023-06-02 Friday
+Sandwich:     4"      White y bread                     $ 5.5 
+          Steak meat                           $ 1.0 
+          swiss cheese                         $ 0.75 
+lettuce,onion,tomato 
+           mayo 
+    savorySlice 
+		5.5
+Drink: s									 $2.0
+
+Chips:Lay's								 $1.5
+
+Total Price: 								$ 10.75

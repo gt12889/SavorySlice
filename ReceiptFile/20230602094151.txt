@@ -1,0 +1,15 @@
+Date: 2023-06-02 Friday
+Sandwich:      12"      White toasted bread             $ 8.50 
+                Steak                               $ 3.00 
+                American                            $ 2.25 
+                Lettuce                                
+                Mayo                                   
+                Au Jus                                 
+		8.5
+Drink: m									 $2.5
+
+Drink: m									 $2.5
+
+Chips:French fries								 $1.5
+
+Total Price: 								$ 20.25

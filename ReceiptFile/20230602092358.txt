@@ -1,0 +1,17 @@
+Date: 2023-06-02 Friday
+Sandwich:       4"     White toasted bread             $ 5.50 
+                Steak                               $ 1.00 
+                Salami                              $ 1.00 
+                American                            $ 0.75 
+                Mozzarella                          $ 0.75 
+                Lettuce                                
+                Tomatoes                               
+                Mayo                                   
+                Mustard                                
+                SavorySlice Official                   
+		5.5
+Drink: s									 $2.0
+
+Chips:Munchos								 $1.5
+
+Total Price: 								$ 13.3

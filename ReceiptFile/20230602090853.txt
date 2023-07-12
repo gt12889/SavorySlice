@@ -1,0 +1,6 @@
+Date: 2023-06-02 Friday
+Drink: l									 $3.0
+
+Drink: s									 $2.0
+
+Total Price: 								$ 5.0

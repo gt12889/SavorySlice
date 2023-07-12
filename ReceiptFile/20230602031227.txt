@@ -1,0 +1,12 @@
+Date: 2023-06-02 Friday
+Drink: m									 $2.5
+
+Drink: l									 $3.0
+
+Chips:Lay's								 $1.5
+
+Chips:French fries								 $1.5
+
+Chips:Miss Vickie's Jalapeno								 $1.5
+
+Total Price: 								$ 10.0

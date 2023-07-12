@@ -1,0 +1,4 @@
+Date: 2023-06-02 Friday
+Sandwich:      8"       Wheat toasted bread                $ 7.00 
+		7.0
+Total Price: 								$ 7.0
